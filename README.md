@@ -1,14 +1,15 @@
 # Hey, I'm Sandeep 👋 :man:🏾‍💻
 
-## > 🔭 Working on **Angular & Spring Boot**   
-## > ✨ Fond of new technologies  
-## > 🌱 Currently learning *Micro-Services*  
+> ### 🔭 Working on **Angular & Spring Boot**   
+> ### ✨ Fond of new technologies  
+> ### 🌱 Currently learning *Micro-Services*  
 
-## > Recently graduated in **Bachelor of Engineering** in Computer Science of Engineering.
+> ### Recently graduated in **Bachelor of Engineering** in Computer Science of Engineering.
 
-## > - Hosted a website on **GITHUB PAGES** *[click here](https://sandeepkokane.github.io/Bootstrap-site/)* to visit. 
+> ### **Recent Activities**:
+> - ### Hosted a website on **GITHUB PAGES** *[click here](https://sandeepkokane.github.io/Bootstrap-site/)* to visit. 
 
-## > Like to get in touch with me: 
-## > -Email: :e-mail: [sandeepkokane97@gmail.com](mailto:sandeepkokane97@gmail.com) 
-## > - Phone: :phone: +91 9834960592
+> ### Like to get in touch with me: 
+> - ### Email: :e-mail: [sandeepkokane97@gmail.com](mailto:sandeepkokane97@gmail.com) 
+> - ### Phone: :phone: +91 9834960592
  
