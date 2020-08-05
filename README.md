@@ -1,7 +1,7 @@
 # Hey, I'm Sandeep 👋 :man:🏾‍💻
 
 > ### 🔭 Working on **Angular & Spring Boot**   
-> ### ✨ Fond of new technologies  
+> ### ✨ Fond of new technologies :metal:  
 > ### 🌱 Currently learning *Micro-Services*  
 
 > ### Recently graduated as *Bachelor of Engineering* in Computer :computer: Science of Engineering.
