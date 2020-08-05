@@ -4,7 +4,7 @@
 > ### ✨ Fond of new technologies  
 > ### 🌱 Currently learning *Micro-Services*  
 
-> ### Recently graduated in **Bachelor of Engineering** in Computer :computer: Science of Engineering.
+> ### Recently graduated as *Bachelor of Engineering* in Computer :computer: Science of Engineering.
 
 > ### **Recent Activities**:
 > - ### :punch:  Hosted a website on **GITHUB PAGES** *[click here](https://sandeepkokane.github.io/Bootstrap-site/)* to visit.   
