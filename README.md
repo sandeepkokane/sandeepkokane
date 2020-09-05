@@ -9,8 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][website]
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>]
 <br>
 
 ### Languages and Tools:
@@ -36,4 +37,4 @@
 > ### Like to get in touch with me: 
 > - ### Email: :e-mail: [sandeepkokane97@gmail.com](mailto:sandeepkokane97@gmail.com) 
 
-[website]:https://www.javatpoint.com/ 
+
