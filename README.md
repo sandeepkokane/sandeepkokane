@@ -1,11 +1,11 @@
 # Hey, I'm Sandeep 👋 :man:🏾‍💻
 
-## I'm an Compute Engineer and a Software Developer
+## I'm an Computer Engineer and a Software Engineer
 
 - ### 🔭 Working on **Spring Boot**   
 - ### ✨ Fond of new technologies :metal:  
 - ### 🌱 Currently learning *Micro-Services using Spring boot*  
-- ### 🥅 2020 Goals: To learn Micro-Services     
+- ### 🥅 2024 Goals: To become a Software Architect   
 
 ### Connect with me:
 <img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
