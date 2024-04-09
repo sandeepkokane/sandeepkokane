@@ -1,23 +1,18 @@
 # Hey, I'm Sandeep 👋 :man:🏾‍💻
 
-## I'm an Computer Engineer and a Software Engineer
-
-- ### 🔭 Working on **Spring Boot**   
-- ### ✨ Fond of new technologies :metal:  
-- ### 🌱 Currently learning *Micro-Services using Spring boot*  
-- ### 🥅 2024 Goals: To become a Software Architect   
+## I'm a Computer Engineer and a Software Engineer
+### 🔭 Working on **Spring Boot**   
+### ✨ Fond of new technologies :metal:  
+### 🌱 Currently learning *Micro-Services using Spring boot*  
+### 🥅 2024 Goals: To become a Software Architect   
 
 ### Connect with me:
 <img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />                     
- 
- ---
- 
-### Like to get in touch with me: 
-> - ### Email: :e-mail: [sandeepkokane97@gmail.com](mailto:sandeepkokane97@gmail.com)         
- 
- ----
+
+> Like to get in touch with me: 
+> [sandeepkokane97@gmail.com](mailto:sandeepkokane97@gmail.com)         
  
 ### Languages and Tools:
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />      
@@ -36,13 +31,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />           
 
----
 
-![Sandeep's github stats](https://github-readme-stats.vercel.app/api?username=sandeepkokane&show_icons=true&theme=radical)
-    
----
-
-# TECHNOLOGIES I WORKED WITH   
+## TECHNOLOGIES I WORKED WITH   
 **BACKEND TECHNOLOGY**       
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>     
